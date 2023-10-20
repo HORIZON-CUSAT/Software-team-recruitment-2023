@@ -19,6 +19,10 @@ For the ROS (Robot Operating System) question, you need to have Ubuntu 20.04 and
 ### Submission Format
 You will need to fork this repository and submit your solutions via pull requests.
 
+The name of forked repo should be <your full name_horizon>
+If a person name is Rahul Kumar , repo name will be rahulkumar_horizon
+
+
 ### Documentation
 We strongly encourage you to provide clear and concise documentation alongside your code. This documentation should include comments, explanations, and instructions on how to run your programs or simulations.
 
@@ -30,10 +34,13 @@ We strongly encourage you to provide clear and concise documentation alongside y
 Write a program that continuously accepts numbers as input and displays the average of all the inserted numbers. However, the program should not accept the same number more than once.
 
 ### Sample Input & Output
-**Input**: 4, 4
+**Input**: 4
 **Output**: 4
 
-**Input**: 4, 5
+**Input**: 5
+**Output**: 4.5
+
+**Input**: 5
 **Output**: 4.5
 
 ### Rules and Instructions
